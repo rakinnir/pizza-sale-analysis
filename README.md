@@ -39,7 +39,8 @@ The goal of this project is to extract valuable insights from the pizza sales da
 
 ## Dashboard Preview
 
-*Include a screenshot of the dashboard here*
+![Sales Dashboard](pizzasalesss.PNG)
+
 
 ## How to Use
 
