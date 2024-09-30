@@ -24,6 +24,7 @@ The goal of this project is to extract valuable insights from the pizza sales da
 - **Power Query**: To clean and standardize data formats, especially inconsistent date formats.
 - **PivotTables**: For quick aggregation and slicing of sales data to generate KPIs and sales insights.
 - **Excel Charts**: Used to create visualizations for trends, categories, and pizza performance.
+- **Sql**: Used to cross validate the analysis
 
 ## Challenges
 
@@ -48,6 +49,7 @@ To explore the dashboard:
 1. Download the Excel file from this repository.
 2. Open the file in Excel.
 3. Use the slicers and filters to interact with the data and explore the visualizations.
+4. Also you can check the sql cross validation code.
 
 ## Conclusion
 
