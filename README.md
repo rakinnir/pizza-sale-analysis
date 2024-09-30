@@ -1,6 +1,6 @@
 # Pizza Sales Analysis
 
-This project showcases an analysis of a pizza sales dataset using Excel, leveraging tools such as Power Query, PivotTables, and Excel's data visualization features. The analysis focuses on key performance indicators (KPIs), trends, and sales insights across various dimensions, culminating in an interactive and dynamic dashboard.
+This project showcases an analysis of a pizza sales dataset using Excel and SQL, leveraging tools such as Power Query, PivotTables, and Excel's data visualization features. The analysis focuses on key performance indicators (KPIs), trends, and sales insights across various dimensions, culminating in an interactive and dynamic dashboard.
 
 ## Project Overview
 
